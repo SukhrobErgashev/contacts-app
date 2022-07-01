@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="verify">Verify</string>
+    <string name="verify_code">Verify code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="register_now">Register Now</string>
+</resources>
